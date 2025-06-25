@@ -16,19 +16,7 @@
 
 ### 𝙴𝚜𝚝𝚊𝚛𝚎 𝙿𝚊𝚛𝚊 𝚃𝚒
 
-<h4 align="center">Contador de visitantes:</h4>
-
-<!-- Contador principal más confiable -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SebastianSBGG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<!-- Contadores alternativos -->
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=SebastianSBGG.SebastianSBGG&left_color=darkviolet&right_color=orange" alt="Visitor Badge" />
-</p>
-
-<!-- Contador adicional con diseño personalizado -->
+<!-- Contador de visitantes -->
 <p align="center">
     <img src="https://count.getloli.com/get/@SebastianSBGG?theme=asoul" alt="Count" />
 </p>
@@ -85,16 +73,3 @@
 <div align="center">
     <img src="https://github.com/SebastianSBGG/SebastianSBGG/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-<details>
-    <summary>&#127942 <b>Premios de GitHub</b></summary><br/>
-
-<p align="center"><a href="https://github.com/SebastianSBGG"><img src="https://github-profile-trophy.vercel.app/?username=SebastianSBGG"></a></p>
-
-</details>
-<details>
-    <summary>&#127942 <b>Actividad de GitHub</b></summary><br/>
-
-<p align="center"><a href="https://github.com/SebastianSBGG"><img src="https://metrics.lecoq.io/SebastianSBGG?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta"></a></p>
-
-</details>
