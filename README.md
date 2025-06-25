@@ -1,7 +1,7 @@
 <div align="center">
 <a href="#">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLight&size=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=𝚆𝚎𝚕𝚌𝚘𝚖;𝙲𝚘𝚖𝚒𝚍𝚊"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLight&size=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎;𝙲𝚘𝚖𝚒𝚍𝚊"
             alt="Typing SVG"
         />
     </a>
@@ -15,26 +15,76 @@
 -  𝚀𝚞𝚒𝚎𝚛𝚘 𝙳𝚒𝚗𝚎𝚛𝚘 [PayPal](https://www.paypal.me/SebastianSaez7) 
 
 ### 𝙴𝚜𝚝𝚊𝚛𝚎 𝙿𝚊𝚛𝚊 𝚃𝚒
+
 <h4 align="center">Contador de visitantes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{SebastianSBGG}/count.svg" alt="SebastianSBGG :: Contador de visitantes" /></p>
-<p align="center"><img src="https://count.getloli.com/get/@SebastianSBGG-github-readme?theme=rule34" /></p>
+
+<!-- Contador principal más confiable -->
 <p align="center">
-  <a href="https://wa.me/56985230452"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://whatsapp.com/channel/0029VavL0RX77qVMEGBNL23y"><img src="https://img.shields.io/badge/Canal_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://github.com/SebastianSBGG"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a name=SebastianSBGG&label=VISTAS&style=flat-square&color=orange" />
+    <img src="https://komarev.com/ghpvc/?username=SebastianSBGG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<!-- Contadores alternativos -->
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=SebastianSBGG.SebastianSBGG&left_color=darkviolet&right_color=orange" alt="Visitor Badge" />
+</p>
+
+<!-- Contador adicional con diseño personalizado -->
+<p align="center">
+    <img src="https://count.getloli.com/get/@SebastianSBGG?theme=asoul" alt="Count" />
+</p>
+
+<p align="center">
+  <a href="https://wa.me/56985230452"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://whatsapp.com/channel/0029VavL0RX77qVMEGBNL23y"><img src="https://img.shields.io/badge/Canal_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/SebastianSBGG"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/github/followers/SebastianSBGG?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ### 𝙴𝚜𝚝𝚊𝚍𝚒𝚜𝚝𝚒𝚌𝚊𝚜 𝙶𝚒𝚝 𝙷𝚞𝚋
 
-<p align="center"><a href="https://github.com/SebastianSBGG"><img src="https://github-readme-stats.vercel.app/api?username=SebastianSBGG&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/SebastianSBGG"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/SebastianSBGG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSBGG&theme=chartreuse-dark&layout=compact"></a></p> 
+<p align="center">
+    <a href="https://github.com/SebastianSBGG">
+        <img src="https://github-readme-stats.vercel.app/api?username=SebastianSBGG&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/SebastianSBGG">
+        <img src="https://streak-stats.demolab.com/?user=SebastianSBGG&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/SebastianSBGG">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSBGG&theme=chartreuse-dark&layout=compact&hide_border=true" alt="Top Languages" />
+    </a>
+</p>
 
 ### 𝙴𝚜𝚝𝚊𝚍𝚒𝚜𝚝𝚒𝚌𝚊𝚜 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘
-<p align=""><a href="https://github.com/SebastianSBGG/naze-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=naze-md&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/SebastianSBGG/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=naze&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/SebastianSBGG/SebastianSBGG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=SebastianSBGG&theme=chartreuse-dark"></a></p>
+
+<p align="left">
+    <a href="https://github.com/SebastianSBGG/naze-md">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=naze-md&theme=chartreuse-dark&hide_border=true" alt="Naze MD" />
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://github.com/SebastianSBGG/naze">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=naze&theme=chartreuse-dark&hide_border=true" alt="Naze" />
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://github.com/SebastianSBGG/SebastianSBGG">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=SebastianSBGG&theme=chartreuse-dark&hide_border=true" alt="Profile README" />
+    </a>
+</p>
+
+---
+
+<div align="center">
+    <img src="https://github.com/SebastianSBGG/SebastianSBGG/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <details>
     <summary>&#127942 <b>Premios de GitHub</b></summary><br/>
