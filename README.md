@@ -1,75 +1,138 @@
 <div align="center">
-<a href="#">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLight&size=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎;𝙲𝚘𝚖𝚒𝚍𝚊"
-            alt="Typing SVG"
-        />
-    </a>
+
+# 👋 ¡Hola! Soy Sebastián
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70787&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil;Desarrollador+apasionado;Siempre+aprendiendo)](https://git.io/typing-svg)
+
 </div>
 
-### Actividades actuales 
--  𝙻𝚒𝚝𝚎𝚛𝚊𝚕 𝙽𝚘𝚜𝚎 𝙽𝚒 𝙻𝚘 𝚀𝚞𝚎 𝙰𝚐𝚘
--  𝙰𝚌𝚝𝚞𝚊𝚕 𝙼𝚎𝚗𝚝𝚎 𝙲𝚘𝚗 𝚂𝚞𝚎𝚗̃𝚘
--  𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚘
--  𝙼𝚒 𝙲𝚘𝚛𝚛𝚎𝚘 seba306053@gmail.com
--  𝚀𝚞𝚒𝚎𝚛𝚘 𝙳𝚒𝚗𝚎𝚛𝚘 [PayPal](https://www.paypal.me/SebastianSaez7) 
+---
 
-### 𝙴𝚜𝚝𝚊𝚛𝚎 𝙿𝚊𝚛𝚊 𝚃𝚒
+## 🚀 Sobre mí
 
-<!-- Contador de visitantes -->
-<p align="center">
-    <img src="https://count.getloli.com/get/@SebastianSBGG?theme=asoul" alt="Count" />
-</p>
+- 🔭 Trabajando en proyectos interesantes
+- 🌱 Aprendiendo constantemente nuevas tecnologías
+- 💬 Pregúntame sobre desarrollo y programación
+- 📫 **Correo:** seba306053@gmail.com
+- ⚡ Dato curioso: Me encanta crear bots y automatizaciones
 
-<p align="center">
-  <a href="https://wa.me/56985230452"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://whatsapp.com/channel/0029VavL0RX77qVMEGBNL23y"><img src="https://img.shields.io/badge/Canal_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/SebastianSBGG"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
-  <img src="https://img.shields.io/github/followers/SebastianSBGG?label=Followers&style=social" alt="GitHub followers" />
-</p>
+---
 
-### 𝙴𝚜𝚝𝚊𝚍𝚒𝚜𝚝𝚒𝚌𝚊𝚜 𝙶𝚒𝚝 𝙷𝚞𝚋
+## 🌐 Conéctate conmigo
 
-<p align="center">
-    <a href="https://github.com/SebastianSBGG">
-        <img src="https://github-readme-stats.vercel.app/api?username=SebastianSBGG&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </a>
-</p>
+<div align="center">
 
-<p align="center">
-    <a href="https://github.com/SebastianSBGG">
-        <img src="https://streak-stats.demolab.com/?user=SebastianSBGG&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-    </a>
-</p>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56985230452)
+[![Canal WhatsApp](https://img.shields.io/badge/Canal_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VavL0RX77qVMEGBNL23y)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebastianSBGG)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/SebastianSaez7)
 
-<p align="center">
-    <a href="https://github.com/SebastianSBGG">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSBGG&theme=chartreuse-dark&layout=compact&hide_border=true" alt="Top Languages" />
-    </a>
-</p>
+![GitHub followers](https://img.shields.io/github/followers/SebastianSBGG?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/SebastianSBGG?style=social)
 
-### 𝙴𝚜𝚝𝚊𝚍𝚒𝚜𝚝𝚒𝚌𝚊𝚜 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘
+</div>
 
-<p align="left">
-    <a href="https://github.com/SebastianSBGG/naze-md">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=naze-md&theme=chartreuse-dark&hide_border=true" alt="Naze MD" />
-    </a>
-</p>
+---
 
-<p align="left">
-    <a href="https://github.com/SebastianSBGG/naze">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=naze&theme=chartreuse-dark&hide_border=true" alt="Naze" />
-    </a>
-</p>
+## 📊 Estadísticas de GitHub
 
-<p align="left">
-    <a href="https://github.com/SebastianSBGG/SebastianSBGG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=SebastianSBGG&theme=chartreuse-dark&hide_border=true" alt="Profile README" />
-    </a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebastianSBGG&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSBGG&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SebastianSBGG&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SebastianSBGG&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📌 Proyectos Destacados
+
+<div align="center">
+
+[![Naze MD](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=naze-md&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/SebastianSBGG/naze-md)
+[![Naze](https://github-readme-stats.vercel.app/api/pin/?username=SebastianSBGG&repo=naze&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/SebastianSBGG/naze)
+
+</div>
+
+---
+
+## 💻 Lenguajes y Herramientas
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Gráfico de Contribuciones
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SebastianSBGG&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Animación de Contribuciones
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/SebastianSBGG/SebastianSBGG/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 👀 Contador de Visitas
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/SebastianSBGG/count.svg)
+
+</div>
 
 ---
 
 <div align="center">
-    <img src="https://github.com/SebastianSBGG/SebastianSBGG/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+### 💖 Apoya mi trabajo
+
+Si te gusta lo que hago, considera invitarme un café ☕
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://www.paypal.me/SebastianSaez7)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ No olvides darle estrella a mis repositorios si te gustan ⭐**
+
+*"El código es poesía"* 💻✨
+
 </div>
