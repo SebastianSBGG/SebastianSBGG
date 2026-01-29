@@ -22,8 +22,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SebastianSBGG&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianSBGG&theme=radical)
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebastianSBGG&theme=radical)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SebastianSBGG&theme=radical)
 
