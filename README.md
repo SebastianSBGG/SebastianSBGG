@@ -20,17 +20,18 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianSBGG&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=SebastianSBGG&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSBGG&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianSBGG&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SebastianSBGG&theme=radical&hide_border=true&background=0D1117)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebastianSBGG&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SebastianSBGG&theme=radical)
 
 </div>
 
 ---
 
-## Actividad
+## Actividad Reciente
 
 <div align="center">
 
@@ -42,6 +43,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SebastianSBGG&color=red&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=SebastianSBGG&color=red&style=flat-square&label=Visitas+al+perfil)
 
 </div>
