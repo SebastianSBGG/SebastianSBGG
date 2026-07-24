@@ -15,26 +15,17 @@
 
 ## Sobre mí
 
-Estudio en Duoc UC y en paralelo desarrollo software de forma constante, con foco principal en bots de mensajería y arquitecturas de plugins escalables. Trabajo indistintamente desde un entorno Linux de escritorio y desde Termux en Android, lo que me obliga a pensar cada proyecto para que funcione bien en condiciones de hardware y conectividad limitadas, no solo en un servidor ideal.
+Estudio en Duoc UC 
 
 Me interesa la optimización de sistemas ya en producción: reducir latencia, eliminar código muerto, y rediseñar arquitecturas que empezaron como un experimento y terminaron necesitando una base sólida.
 
 ## En qué estoy trabajando
-
-**Luciana MD**
-Bot de WhatsApp construido sobre Baileys, con un ecosistema de más de trescientos plugins activos. Incluye un sistema de economía y coleccionables tipo gacha, generación y edición de stickers con ffmpeg, administración de grupos, y un álbum de figuritas por temporada con intercambio entre usuarios.
 
 **Bot complementario en Telegram**
 Comparte lógica de descargas y utilidades con Luciana MD, con filtros de contenido automatizados y comandos unificados entre ambas plataformas.
 
 **Fork combinado de Baileys**
 Trabajo de integración de múltiples forks de la librería en una sola base consolidada, resolviendo conflictos de módulos y compatibilidad entre versiones para quedarme con lo mejor de cada implementación.
-
-## Cómo trabajo
-
-Prioridad al rendimiento antes que a la cantidad de funciones. Prefiero un sistema con menos características pero estables, antes que uno inflado de opciones a medio terminar. Reviso constantemente el código existente buscando duplicación, procesos síncronos que deberían ser asíncronos, y dependencias que ya no cumplen ningún propósito.
-
-Despliego y pruebo en condiciones reales: dispositivos móviles, paneles de hosting con restricciones de entorno, y conexiones inestables, no solo en configuraciones perfectas de desarrollo.
 
 ## Stack
 
