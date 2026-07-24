@@ -17,7 +17,7 @@
 
 Estudio en Duoc UC 
 
-Me interesa la optimización de sistemas ya en producción: reducir latencia, eliminar código muerto, y rediseñar arquitecturas que empezaron como un experimento y terminaron necesitando una base sólida.
+deje la paja 
 
 ## En qué estoy trabajando
 
